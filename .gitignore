@@ -10,3 +10,4 @@ env/
 Thumbs.db
 *.egg-info/
 dist/
+AGENT_TOOLS.md
